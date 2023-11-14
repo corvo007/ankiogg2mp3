@@ -1,0 +1,2 @@
+1.账户名改成“账户1”（应该是默认账户名）
+2.ffmpeg.exe和ffprobe.exe复制到C:\Windows\System32
